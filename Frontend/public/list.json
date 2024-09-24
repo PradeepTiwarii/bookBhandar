@@ -1,0 +1,394 @@
+[
+    {
+        "id": 1001,
+        "name": "The Power of Habit          ",
+        "title": "Why We Do What We Do        ",
+        "price": 9.99,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1002,
+        "name": "Grit                        ",
+        "title": "The Power of Passion and Pe",
+        "price": 12.50,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1003,
+        "name": "Deep Work                   ",
+        "title": "Rules for Focused Success i",
+        "price": 18.99,
+        "category": "Productivity",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1004,
+        "name": "The Art of War              ",
+        "title": "A Timeless Guide to Strat    ",
+        "price": 5.00,
+        "category": "Strategy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1005,
+        "name": "The 5 AM Club              ",
+        "title": "Own Your Morning, Elevate Y",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1006,
+        "name": "Hooked                     ",
+        "title": "How to Build Habit-Forming P",
+        "price": 10.50,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1007,
+        "name": "The Innovator's Dilemma     ",
+        "title": "When New Technologies Cau   ",
+        "price": 14.99,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1008,
+        "name": "Drive                      ",
+        "title": "The Surprising Truth About W",
+        "price": 8.99,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1009,
+        "name": "Outliers                   ",
+        "title": "The Story of Success         ",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1010,
+        "name": "Dare to Lead               ",
+        "title": "Brave Work. Tough Conversati",
+        "price": 13.50,
+        "category": "Leadership",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1011,
+        "name": "Leaders Eat Last           ",
+        "title": "Why Some Teams Pull Togethe  ",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1012,
+        "name": "Mindset                    ",
+        "title": "The New Psychology of Succ   ",
+        "price": 12.75,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1013,
+        "name": "Start with Why             ",
+        "title": "How Great Leaders Inspire Ev",
+        "price": 15.00,
+        "category": "Leadership",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1014,
+        "name": "Thinking in Bets           ",
+        "title": "Making Smarter Decisions Wh",
+        "price": 0.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1015,
+        "name": "The One Thing             ",
+        "title": "The Surprisingly Simple Tru   ",
+        "price": 11.50,
+        "category": "Productivity",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1016,
+        "name": "Blue Ocean Strategy        ",
+        "title": "How to Create Uncontested M  ",
+        "price": 21.99,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1017,
+        "name": "Principles                 ",
+        "title": "Life and Work                ",
+        "price": 25.50,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1018,
+        "name": "Switch                    ",
+        "title": "How to Change Things When Ch",
+        "price": 18.75,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1019,
+        "name": "Tribes                    ",
+        "title": "We Need You to Lead Us       ",
+        "price": 7.50,
+        "category": "Leadership",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1020,
+        "name": "The Hard Thing About Hard  ",
+        "title": "Building a Business When Ther",
+        "price": 19.99,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1021,
+        "name": "The Obstacle Is the Way     ",
+        "title": "The Timeless Art of Turnin   ",
+        "price": 10.99,
+        "category": "Philosophy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1022,
+        "name": "Shoe Dog                   ",
+        "title": "A Memoir by the Creator of N",
+        "price": 17.50,
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1023,
+        "name": "Good to Great             ",
+        "title": "Why Some Companies Make the  ",
+        "price": 22.99,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1024,
+        "name": "The Lean Startup           ",
+        "title": "How Today's Entrepreneurs U",
+        "price": 16.00,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1025,
+        "name": "Principles                ",
+        "title": "Life and Work                ",
+        "price": 20.00,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1026,
+        "name": "Atomic Habits              ",
+        "title": "An Easy & Proven Way to Bui  ",
+        "price": 11.99,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1027,
+        "name": "Start with Why             ",
+        "title": "How Great Leaders Inspire Ev",
+        "price": 9.50,
+        "category": "Leadership",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1028,
+        "name": "The 7 Habits of Highly Effec",
+        "title": "The Definitive Edition        ",
+        "price": 12.50,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1029,
+        "name": "Make Your Bed              ",
+        "title": "Little Things That Can Cha  ",
+        "price": 7.99,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1030,
+        "name": "Grit                        ",
+        "title": "The Power of Passion and Pe",
+        "price": 11.50,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1031,
+        "name": "Quiet                      ",
+        "title": "The Power of Introverts in a",
+        "price": 14.99,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1032,
+        "name": "The 4-Hour Workweek        ",
+        "title": "Escape 9-5, Live Anywhere,  ",
+        "price": 18.00,
+        "category": "Productivity",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1033,
+        "name": "The 48 Laws of Power       ",
+        "title": "Master the Laws of Power     ",
+        "price": 16.99,
+        "category": "Strategy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1034,
+        "name": "Thinking, Fast and Slow    ",
+        "title": "The Ultimate Guide to Intui  ",
+        "price": 23.00,
+        "category": "Psychology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1035,
+        "name": "The Subtle Art of Not Givi",
+        "title": "A Counterintuitive Approach  ",
+        "price": 13.99,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1036,
+        "name": "Principles                 ",
+        "title": "Life and Work                ",
+        "price": 20.50,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1037,
+        "name": "Rework                     ",
+        "title": "Change the Way You Work F   ",
+        "price": 15.00,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1038,
+        "name": "The 5 Languages of Love    ",
+        "title": "How to Express Heartfelt Co",
+        "price": 11.00,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1039,
+        "name": "The Road Less Traveled     ",
+        "title": "A New Psychology of Love, T",
+        "price": 19.00,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1040,
+        "name": "Daring Greatly             ",
+        "title": "How the Courage to Be Vuln  ",
+        "price": 14.50,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1041,
+        "name": "Antifragile                ",
+        "title": "Things That Gain from Disor",
+        "price": 22.00,
+        "category": "Philosophy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1042,
+        "name": "The E-Myth Revisited       ",
+        "title": "Why Most Small Businesses D",
+        "price": 13.00,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1043,
+        "name": "The 7 Habits of Highly Effec",
+        "title": "The Definitive Edition        ",
+        "price": 18.99,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1044,
+        "name": "The 5 AM Club             ",
+        "title": "Own Your Morning, Elevate Y",
+        "price": 13.50,
+        "category": "Self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1045,
+        "name": "The Book Thief            ",
+        "title": "A Novel                     ",
+        "price": 19.99,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1046,
+        "name": "Educated                   ",
+        "title": "A Memoir                    ",
+        "price": 14.99,
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1047,
+        "name": "Where the Crawdads Sing    ",
+        "title": "A Novel                     ",
+        "price": 16.00,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1048,
+        "name": "Becoming                   ",
+        "title": "A Memoir                    ",
+        "price": 18.00,
+        "category": "Biography",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 1049,
+        "name": "Sapiens                    ",
+        "title": "A Brief History of Humanki  ",
+        "price": 20.00,
+        "category": "Non-fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    }
+]
